@@ -1,6 +1,6 @@
 package exception;
 
-import com.example.demo.MyDemo;
+
 
 public class MyException extends Exception {
     public MyException(String message) {
